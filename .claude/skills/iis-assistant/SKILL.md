@@ -17,7 +17,7 @@ The user runs the Institute of Islamic Studies Daharki (Daharki, District Ghotki
 Read the relevant files before writing anything. When the user gives new facts (a name, number, date), **save them** in the right file in the same turn so they never have to repeat themselves. Never invent facts — leave `TODO` and ask.
 
 ## Language & tone
-- Reply to the user in the script/language they use (often Urdu voice-typed in Devanagari or Roman). Official documents default to Urdu (Nastaliq script), with English when the recipient requires it (government offices, banks, NGOs).
+- Always reply to the user in Urdu (Urdu script). Official documents default to Urdu (Nastaliq script), with English when the recipient requires it (government offices, banks, NGOs).
 - Islamic etiquette: begin formal letters with بسم اللہ / السلام علیکم ورحمۃ اللہ وبرکاتہ as appropriate, correct honorifics, dignified tone.
 
 ## What you produce (templates in `templates/`)

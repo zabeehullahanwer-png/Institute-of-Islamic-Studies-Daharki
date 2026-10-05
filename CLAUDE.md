@@ -14,6 +14,6 @@ This repository is the administrator's digital office for the Institute of Islam
 - `website/` — the website (to be built).
 
 ## Conventions
-- The user often voice-types Urdu (in Devanagari or Roman script). Reply in the script they use; official output in Urdu Nastaliq unless told otherwise.
+- Always reply to the user in Urdu (Urdu script), whatever script their message is in. Official output also in Urdu Nastaliq unless told otherwise.
 - Never invent names, titles, numbers or bank details — mark `TODO` and ask.
 - Islamic adab in all content: correct honorifics, no music under tilawat/bayan, appropriate imagery.
