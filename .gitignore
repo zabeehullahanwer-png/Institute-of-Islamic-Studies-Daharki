@@ -1,0 +1,12 @@
+# Raw/edited media are large — keep them out of git
+projects/**/*.mp4
+projects/**/*.mov
+projects/**/*.mkv
+projects/**/*.avi
+projects/**/*.m4a
+projects/**/*.mp3
+projects/**/*.wav
+projects/**/*.jpg
+projects/**/*.png
+__pycache__/
+.DS_Store

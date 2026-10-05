@@ -1,0 +1,26 @@
+{
+  "_note": "Institute ki branding. colors abhi aarzi (placeholder) hain — asal logo milne par us se match karen. TODO wali cheezen user se le kar bharen.",
+  "name_ur": "انسٹیٹیوٹ آف اسلامک اسٹڈیز ڈہرکی",
+  "name_en": "Institute of Islamic Studies Daharki",
+  "short_en": "IIS Daharki",
+  "tagline_ur": "TODO",
+  "location": "Daharki, District Ghotki, Sindh, Pakistan",
+  "facebook": "TODO: page ka link",
+  "youtube": "TODO",
+  "whatsapp": "TODO",
+  "website": "TODO",
+  "colors": {
+    "primary": "#0B5D3B",
+    "accent": "#C9A227",
+    "text_light": "#FFFFFF",
+    "text_dark": "#1A1A1A"
+  },
+  "logo": "brand/logo/logo.png",
+  "intro": "brand/intro-outro/intro.mp4",
+  "outro": "brand/intro-outro/outro.mp4",
+  "fonts": {
+    "urdu": "Noto Nastaliq Urdu",
+    "arabic": "Noto Naskh Arabic",
+    "latin": "Poppins SemiBold"
+  }
+}
