@@ -3,7 +3,7 @@
 Format: `- [ ] task — owner — due — notes`. Assistant updates this after every task.
 
 ## Open
-- [ ] Share Facebook page link so past videos can be reviewed — user
+- [ ] Review past Facebook videos — Facebook is blocked from the cloud environment; user to send page name, screenshots, or 2–3 downloaded sample videos — user
 - [ ] Send logo (PNG, transparent background, high resolution) → `brand/logo/logo.png` — user
 - [ ] Send any existing intro/outro clip and official colours — user
 - [ ] Fill `institute/profile.md` basics (address, phone, founding year, leadership) — user

@@ -9,7 +9,7 @@
 - **Google Maps link:** TODO
 - **Phone / WhatsApp:** TODO
 - **Email:** TODO
-- **Facebook:** TODO (link to be shared by the user)
+- **Facebook:** https://www.facebook.com/share/18FvBA1omi/ (page name: TODO)
 - **Founded (year):** TODO
 - **Founder / Patron (بانی / سرپرست):** TODO
 - **Affiliation (wifaq/board/university):** TODO
