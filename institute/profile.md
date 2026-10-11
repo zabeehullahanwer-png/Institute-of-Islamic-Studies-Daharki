@@ -9,7 +9,7 @@
 - **Google Maps link:** TODO
 - **Phone / WhatsApp:** TODO
 - **Email:** TODO
-- **Facebook:** https://www.facebook.com/share/18FvBA1omi/ (page name: TODO)
+- **Facebook:** https://www.facebook.com/share/18FvBA1omi/ (page name: "Institute of islamic studies daharki")
 - **Founded (year):** TODO
 - **Founder / Patron (بانی / سرپرست):** TODO
 - **Affiliation (wifaq/board/university):** TODO
