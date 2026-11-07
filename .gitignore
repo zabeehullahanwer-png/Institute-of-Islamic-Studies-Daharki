@@ -10,3 +10,6 @@ projects/**/*.jpg
 projects/**/*.png
 __pycache__/
 .DS_Store
+projects/**/*.wav
+projects/**/*.ass
+projects/**/frames/

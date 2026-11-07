@@ -1,0 +1,195 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.78,
+  "text": "When I joined this institution, I started completely from zero.",
+  "words": [
+   [
+    0.0,
+    0.78,
+    " When"
+   ],
+   [
+    0.78,
+    1.06,
+    " I"
+   ],
+   [
+    1.06,
+    1.42,
+    " joined"
+   ],
+   [
+    1.42,
+    1.64,
+    " this"
+   ],
+   [
+    1.64,
+    2.16,
+    " institution,"
+   ],
+   [
+    2.48,
+    3.02,
+    " I"
+   ],
+   [
+    3.02,
+    3.38,
+    " started"
+   ],
+   [
+    3.38,
+    4.0,
+    " completely"
+   ],
+   [
+    4.0,
+    4.36,
+    " from"
+   ],
+   [
+    4.36,
+    4.78,
+    " zero."
+   ]
+  ]
+ },
+ {
+  "start": 5.34,
+  "end": 7.96,
+  "text": "But this place changed my life.",
+  "words": [
+   [
+    5.34,
+    5.7,
+    " But"
+   ],
+   [
+    5.7,
+    6.28,
+    " this"
+   ],
+   [
+    6.28,
+    6.76,
+    " place"
+   ],
+   [
+    6.76,
+    7.36,
+    " changed"
+   ],
+   [
+    7.36,
+    7.74,
+    " my"
+   ],
+   [
+    7.74,
+    7.96,
+    " life."
+   ]
+  ]
+ },
+ {
+  "start": 8.26,
+  "end": 12.24,
+  "text": "They taught me from the first letter in the Quranic rule.",
+  "words": [
+   [
+    8.26,
+    8.68,
+    " They"
+   ],
+   [
+    8.68,
+    8.92,
+    " taught"
+   ],
+   [
+    8.92,
+    9.44,
+    " me"
+   ],
+   [
+    9.44,
+    9.6,
+    " from"
+   ],
+   [
+    9.6,
+    9.72,
+    " the"
+   ],
+   [
+    9.72,
+    9.9,
+    " first"
+   ],
+   [
+    9.9,
+    10.54,
+    " letter"
+   ],
+   [
+    10.54,
+    10.88,
+    " in"
+   ],
+   [
+    10.88,
+    10.98,
+    " the"
+   ],
+   [
+    10.98,
+    11.24,
+    " Quranic"
+   ],
+   [
+    11.24,
+    12.24,
+    " rule."
+   ]
+  ]
+ },
+ {
+  "start": 12.24,
+  "end": 14.12,
+  "text": "Until I finished memorizing the Quran.",
+  "words": [
+   [
+    12.24,
+    12.9,
+    " Until"
+   ],
+   [
+    12.9,
+    13.22,
+    " I"
+   ],
+   [
+    13.22,
+    13.46,
+    " finished"
+   ],
+   [
+    13.46,
+    13.9,
+    " memorizing"
+   ],
+   [
+    13.9,
+    13.98,
+    " the"
+   ],
+   [
+    13.98,
+    14.12,
+    " Quran."
+   ]
+  ]
+ }
+]

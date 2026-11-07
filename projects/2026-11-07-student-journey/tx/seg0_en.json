@@ -1,0 +1,59 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.7,
+  "text": "When I joined this institution, I started completely from zero.",
+  "words": [
+   [
+    0.0,
+    0.78,
+    " When"
+   ],
+   [
+    0.78,
+    1.08,
+    " I"
+   ],
+   [
+    1.08,
+    1.4,
+    " joined"
+   ],
+   [
+    1.4,
+    1.64,
+    " this"
+   ],
+   [
+    1.64,
+    2.16,
+    " institution,"
+   ],
+   [
+    2.48,
+    3.06,
+    " I"
+   ],
+   [
+    3.06,
+    3.46,
+    " started"
+   ],
+   [
+    3.46,
+    4.0,
+    " completely"
+   ],
+   [
+    4.0,
+    4.36,
+    " from"
+   ],
+   [
+    4.36,
+    4.7,
+    " zero."
+   ]
+  ]
+ }
+]

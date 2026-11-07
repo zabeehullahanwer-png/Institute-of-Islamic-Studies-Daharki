@@ -11,6 +11,7 @@ Format: `- [ ] task — owner — due — notes`. Assistant updates this after e
 - [ ] Decide website domain name (see `.claude/skills/iis-website/SKILL.md`) — user
 
 ## Done
+- [x] Student Journey donor video (Shahid) — 2026-11-07 — projects/2026-11-07-student-journey
 
 ## Outgoing letters log
 | Ref no. | Date | To | Subject |
